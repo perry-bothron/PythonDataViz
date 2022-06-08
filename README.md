@@ -1,6 +1,6 @@
 
 # Python Data Analysis and Visualization using Pandas + Matplotlib
 
-Forked from Erich Purpur's repo of the same name.
+Forked from Erich Purpur's repo of the same name (https://github.com/epurpur/PythonDataViz).
 
 
